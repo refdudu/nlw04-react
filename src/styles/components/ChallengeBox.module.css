@@ -5,14 +5,13 @@
   box-shadow: 0 0 60px rgba(0, 0, 0, 0.05);
   padding: 1.5rem 2rem;
 
-
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: center;
 
   text-align: center;
-  }
+}
 
 .active {
   height: 100%;
